@@ -3,3 +3,4 @@
 группа: 2023-05
 
 ДЗ №1: [homework-1](homework-1)
+ДЗ №2: [homework-2](homework-2)
