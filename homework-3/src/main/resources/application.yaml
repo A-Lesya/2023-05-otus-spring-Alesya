@@ -1,0 +1,16 @@
+spring:
+  messages:
+    basename: "localization/app_messages"
+    encoding: "UTF-8"
+
+application:
+#  locale: ru_RU
+  locale: en
+
+csv:
+  separator: ;
+  tickets-file-path: "tickets/examination-tickets_${application.locale}.csv"
+
+exam:
+  number-of-correct-answers-to-pass: 4
+  max-score: 10
